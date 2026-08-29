@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Michael!
 
-I'm a 16-year-old self-taught developer from Germany with a deep passion for programming and building things that work. I wrote my very first lines of code back in **2021**, starting with a small Minecraft plugin in **Java** — and I’ve been hooked ever since.
+I'm a 17-year-old self-taught developer from Germany with a deep passion for programming and building things that work. I wrote my very first lines of code back in **2021**, starting with a small Minecraft plugin in **Java** — and I’ve been hooked ever since.
 
 **Languages:**
 
